@@ -1,4 +1,0 @@
-doCheckPopCondition
-current date2023-12-31
-install date2023-12-29
-triger event1
